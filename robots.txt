@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://rd0663843-wq.github.io/Rajesh-Das-/sitemap.xml
